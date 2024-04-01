@@ -1,0 +1,20 @@
+{
+    "folder-color.pathColors": [
+        {
+            "folderPath": "Recherche-par-ville\\src\\components\\FindCity.js\\index.js\\",
+            "color": "foldercolorizer.LightRed"
+        },
+        {
+            "folderPath": "Recherche-par-ville\\src\\components\\Item.js\\index.js\\",
+            "color": "foldercolorizer.LightSalmon"
+        },
+        {
+            "folderPath": "Recherche-par-ville\\src\\components\\List\\index.js\\",
+            "color": "foldercolorizer.SkyBlue"
+        },
+        {
+            "folderPath": "Recherche-par-ville\\src\\components\\search.js\\index.js\\",
+            "color": "foldercolorizer.LimeGreen"
+        }
+    ]
+}
