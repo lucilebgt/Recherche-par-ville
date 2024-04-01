@@ -2,7 +2,7 @@
   "name": "recherche-par-ville",
   "version": "1.0.0",
   "description": "app permettant de trouver une ville de différentes façons :",
-  "main": "./src/index.html",
+  "source": "src/index.html",
   "type": "module",
   "scripts": {
     "test": "jest",
